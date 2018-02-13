@@ -1,6 +1,6 @@
-ciao pippo
-
+ciao bella pippa
 come stai?
 dimmi chi sei
 e ti dirò chi sono
+Sono Caterina
 
